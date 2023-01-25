@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name":"Vodka",
+    "name":"Amaretto",
     "coordinate":"-4995",
     "hold":"2500",
     "wait":"3000",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name":"Orange Juice",
+    "name":"Ron blanco",
     "coordinate":"-2510",
     "hold":"2400",
     "wait":"2500",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name":"White Rum",
+    "name":"Ron oscuro",
     "coordinate":"-4010",
     "hold":"2500",
     "wait":"2400",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name":"Coca-Cola",
+    "name":"Vodka",
     "coordinate":"-1000",
     "hold":"2500",
     "wait":"2800",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name":"Peach Liqueur",
+    "name":"Tequila",
     "coordinate":"-3500",
     "hold":"2500",
     "wait":"2400",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name":"Cranberry Juice",
+    "name":"Triple sec",
     "coordinate":"-1990",
     "hold":"2300",
     "wait":"2300",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name":"Whiskey",
+    "name":"Gin",
     "coordinate":"-4495",
     "hold":"2400",
     "wait":"2400",
@@ -57,15 +57,55 @@
   },
   {
     "id": 8,
-    "name":"Grapefruit Juice",
+    "name":"Whiskey",
+    "coordinate":"-4495",
+    "hold":"2400",
+    "wait":"2400",
+    "disabled": false
+  },
+  {
+    "id": 9,
+    "name":"Cinzano",
+    "coordinate":"-4495",
+    "hold":"2400",
+    "wait":"2400",
+    "disabled": false
+  },
+  {
+    "id": 10,
+    "name":"Vino",
+    "coordinate":"-4495",
+    "hold":"2400",
+    "wait":"2400",
+    "disabled": false
+  },
+  {
+    "id": 11,
+    "name":"Granadina",
     "coordinate":"-1490",
     "hold":"2600",
     "wait":"2500",
     "disabled": false
   },
   {
-    "id": 9,
-    "name":"Melon Liqueur",
+    "id": 12,
+    "name":"Jugo de naranja",
+    "coordinate":"-2995",
+    "hold":"2500",
+    "wait":"2400",
+    "disabled": false
+  },
+  {
+    "id": 13,
+    "name":"Sirope",
+    "coordinate":"-2995",
+    "hold":"2500",
+    "wait":"2400",
+    "disabled": false
+  },
+  {
+    "id": 14,
+    "name":"Coca cola",
     "coordinate":"-2995",
     "hold":"2500",
     "wait":"2400",

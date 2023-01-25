@@ -1,16 +1,20 @@
 [
   {
     "id": 1,
-    "name":"Screwdriver",
+    "name":"Amaretto Sour",
     "image":"screw_driver_small.png",
-    "description":"",
+    "description":"Cocktail de licor de amareto con naranja y granadina",
     "ingredients":[
       {
         "id": 1,
-        "amount": 40
+        "amount": 59
       },
       {
-        "id": 2,
+        "id": 11,
+        "amount": 14.75
+      },
+      {
+        "id": 12,
         "amount": 100
       }
     ]
@@ -26,32 +30,24 @@
         "amount": 40
       },
       {
-        "id": 4,
+        "id": 14,
         "amount": 120
       }
     ]
   },
   {
     "id": 3,
-    "name":"Sex on the Beach",
+    "name":"Caipiriña",
     "image":"sex_on_the_beach_small.png",
     "description":"",
     "ingredients":[
       {
-        "id": 1,
-        "amount": 40
-      },
-      {
-        "id": 5,
-        "amount": 20
-      },
-      {
         "id": 2,
-        "amount": 40
+        "amount": 59
       },
       {
-        "id": 6,
-        "amount": 40
+        "id": 13,
+        "amount": 14.5
       }
     ]
   },
